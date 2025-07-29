@@ -1,1 +1,1 @@
-This is my Model api endpoints deployment repo
+This is my Model deployment repo
